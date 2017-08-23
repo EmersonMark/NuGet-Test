@@ -2,6 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>ee.nuget.test</PackageId>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Authors>Mark Johnson</Authors>
+    <Description>Learning how to NuGet...</Description>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageReleaseNotes>First release</PackageReleaseNotes>
+    <Copyright>Copyright 2017 (c) Emerson Ecologics. All rights reserved.</Copyright>
+    <PackageTags>nuget test</PackageTags>
   </PropertyGroup>
 
 </Project>
